@@ -48,7 +48,7 @@ class Homepage extends StatelessWidget {
                   width: 130,
                   decoration: BoxDecoration(
                     shape: BoxShape.circle,
-                    image: DecorationImage(image: AssetImage('images/bosprofile.jpg'),fit: BoxFit.cover)
+                    image: DecorationImage(image: AssetImage('images/bosprofile.jpg'),fit: BoxFit.cover)  //images/projectscreenshort.PNG
                   ),
                 ),
 
